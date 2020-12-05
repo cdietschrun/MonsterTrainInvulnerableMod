@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <OutDir>E:\Steam\steamapps\workshop\content\1102190\invuln-mod-test\plugins</OutDir>
+    <OutDir>$(SolutionDir)\deployment\plugins</OutDir>
   </PropertyGroup>
 
   <ItemGroup>
@@ -41,6 +41,10 @@
       <HintPath>..\..\Steam\steamapps\common\Monster Train\MonsterTrain_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
       <Private>false</Private>
     </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="deployment\plugins\" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,12 @@
+{
+  "ModId": 2309792337,
+  "Title": "Invulnerable Pyre Mod",
+  "Description": "Allows your Pyre Heart to be invulnerable.",
+  "Tags": [
+    "pyre",
+    "health",
+    "invulnerable"
+  ],
+  "ChangeLog": "Initial version.",
+  "CosmeticOnly": false
+}
