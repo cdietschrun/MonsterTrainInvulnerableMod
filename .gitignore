@@ -12,6 +12,8 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+BePinEx*/*
+MonsterTrain_Data/*
 
 # Build results
 [Dd]ebug/
